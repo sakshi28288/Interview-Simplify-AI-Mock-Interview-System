@@ -1,4 +1,4 @@
-# Simplify – AI-Based Mock Interview Platform
+# Interview Simplify – AI-Based Mock Interview Platform
 
 Simplify is a final-year student project developed as an AI-based mock interview platform to help students and job seekers prepare for technical and HR interviews. The application provides a realistic interview environment by generating intelligent questions, evaluating user responses, and giving structured feedback for improvement.
 
@@ -100,4 +100,3 @@ NEXT_PUBLIC_APP_URL=http://localhost:3000
 ## Author
 
 Sakshi Sinha  
-Final Year Student – Computer Science / Information Technology
